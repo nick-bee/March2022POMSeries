@@ -6,6 +6,6 @@ public class OrderPage {
 	
 	
 	public void makeOrder() {
-		System.out.println("order id : 12345");
+		System.out.println("order id :12345");
 	}
 }
