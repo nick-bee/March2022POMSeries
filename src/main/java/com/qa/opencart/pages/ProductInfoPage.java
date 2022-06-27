@@ -77,7 +77,7 @@ public class ProductInfoPage {
 		String price = priceList.get(0).getText().trim();// $2000.00
 		String ExTaxPrice = priceList.get(1).getText().trim();
 
-		productInfoMap.put("price1", price);
+		productInfoMap.put("price", price);
 		productInfoMap.put("extaxprice", ExTaxPrice);
 	}
 	
